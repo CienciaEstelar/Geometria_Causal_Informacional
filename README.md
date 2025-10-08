@@ -1,3 +1,9 @@
+Aquí tienes tu **README.md** totalmente formateado, listo para copiar, pegar y subir a GitHub.
+Usa encabezados Markdown estándar, iconografía Unicode, y un formato limpio compatible con la vista previa de GitHub 👇
+
+---
+
+````markdown
 # 🌌 Geometría Causal-Informacional (GCI)
 
 ### Framework de Cosmología Escalar-Tensor (DVT)
@@ -44,3 +50,54 @@ Se requiere **Python 3.9+** y las librerías científicas listadas en `requireme
 
 ```bash
 pip install -r requirements.txt
+````
+
+---
+
+### 2. Ejecución de la Simulación Principal
+
+Este script realiza la derivación simbólica, calibración y simulación numérica:
+
+```bash
+python modelo_cosmologico.py
+```
+
+---
+
+### 3. Verificación del Blindaje Teórico
+
+Ejecute este script para verificar simbólicamente la consistencia de la escala `ν_c`
+con la simetría del Grupo de Renormalización (**Punto Fijo RG**):
+
+```bash
+python analysis/derivacion_vc.py
+```
+
+---
+
+## 📈 Resultados
+
+Una vez completada la ejecución, los archivos de salida (`.tex`, `.png`, `.pdf`)
+se generarán automáticamente dentro de la carpeta `output/`.
+
+---
+
+## 🧩 Créditos
+
+**Autor:** Juan Galaz
+**Proyecto:** *Dynamic Vacuum Toolkit (DVT) — Geometría Causal-Informacional (GCI)*
+**Universidad:** Universidad de Santiago de Chile (USACH)
+
+---
+
+## 📜 Licencia
+
+Este proyecto se distribuye bajo licencia **MIT**, promoviendo la libre investigación científica.
+
+```
+
+---
+
+¿Quieres que te lo adapte también con un **banner visual ASCII** o **badges automáticos** (por ejemplo: “Build Passing”, “Python 3.9+”, “SymPy Ready”, “MIT License”)?  
+Eso hace que el README se vea mucho más profesional en GitHub.
+```
