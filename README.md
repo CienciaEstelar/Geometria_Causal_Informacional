@@ -1,9 +1,4 @@
-Aquí tienes tu **README.md** totalmente formateado, listo para copiar, pegar y subir a GitHub.
-Usa encabezados Markdown estándar, iconografía Unicode, y un formato limpio compatible con la vista previa de GitHub 👇
 
----
-
-````markdown
 # 🌌 Geometría Causal-Informacional (GCI)
 
 ### Framework de Cosmología Escalar-Tensor (DVT)
