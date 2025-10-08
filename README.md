@@ -90,9 +90,3 @@ se generarán automáticamente dentro de la carpeta `output/`.
 Este proyecto se distribuye bajo licencia **MIT**, promoviendo la libre investigación científica.
 
 ```
-
----
-
-¿Quieres que te lo adapte también con un **banner visual ASCII** o **badges automáticos** (por ejemplo: “Build Passing”, “Python 3.9+”, “SymPy Ready”, “MIT License”)?  
-Eso hace que el README se vea mucho más profesional en GitHub.
-```
