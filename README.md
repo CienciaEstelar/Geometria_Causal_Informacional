@@ -88,5 +88,3 @@ se generarán automáticamente dentro de la carpeta `output/`.
 ## 📜 Licencia
 
 Este proyecto se distribuye bajo licencia **MIT**, promoviendo la libre investigación científica.
-
-```
